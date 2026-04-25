@@ -29,7 +29,7 @@ That's it!
 ---
 
 ## 📌 About Project
-This project demonstrates CRUD operations using Java and showcases data handling, searching, and visualization techniques. It is useful for understanding basic database-like operations without using an actual database.
+This project demonstrates CRUD operations using Java and showcases data handling, searching, and visualization techniques. It is useful for understanding basic database-like operations without using an actual database..
 
 ---
 
