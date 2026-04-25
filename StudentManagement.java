@@ -14,7 +14,7 @@ public class StudentManagement {
 
     static Scanner sc = new Scanner(System.in);
 
-    // ── ANSI Colors ──
+    // ── ANSI Colors ──  
     static final String RESET  = "\u001B[0m";
     static final String BOLD   = "\u001B[1m";
     static final String CYAN   = "\u001B[36m";
