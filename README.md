@@ -24,7 +24,7 @@ That's it!
 
 ## 👨‍💻 Author
 **Piyush Soni**  
-💻 Java Developer  
+💻 Java Developer 
 
 ---
 
