@@ -13,7 +13,7 @@ java StudentManagement
 That's it!
 
 ## Features
-- Add / View / Search / Update / Delete students
+- Add / View / Search / Update / Delete students.
 - Search by name or course.
 - Color-coded GPA table
 - Statistics with course bar chart
