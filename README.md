@@ -17,7 +17,7 @@ That's it!
 - Search by name or course
 - Color-coded GPA table
 - Statistics with course bar chart
-- 5 sample students pre-loaded
+- 5 sample students pre-loaded.
 
 ## Requirements
 - Java 14 or higher (uses switch expressions)
