@@ -46,7 +46,7 @@ public class StudentManagement {
     }
 
     // ─────────────────────────────────────────
-    //  SEED SAMPLE DATA
+    //  SEED SAMPLE DATA///
     // ─────────────────────────────────────────
     static void seedData() {
         addRecord("Aarav Sharma",  20, "Computer Science",  8.7, "aarav@email.com");
