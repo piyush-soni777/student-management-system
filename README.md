@@ -21,3 +21,16 @@ That's it!
 
 ## Requirements
 - Java 14 or higher (uses switch expressions)
+
+## 👨‍💻 Author
+**Piyush Soni**  
+💻 Java Developer  
+
+---
+
+## 📌 About Project
+This project demonstrates CRUD operations using Java and showcases data handling, searching, and visualization techniques. It is useful for understanding basic database-like operations without using an actual database.
+
+---
+
+⭐ If you like this project, don't forget to star the repository!
