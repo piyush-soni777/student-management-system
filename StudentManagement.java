@@ -142,7 +142,7 @@ public class StudentManagement {
 
 // develope by piyushSoni
     // ─────────────────────────────────────────
-    //  4. SEARCH BY COURSE
+    //  4. SEARCH BY COURSE.
     // ─────────────────────────────────────────
     static void searchByCourse() {
         System.out.println(BOLD + "\n--- Search by Course ---" + RESET);
