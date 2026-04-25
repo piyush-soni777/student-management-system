@@ -2,7 +2,7 @@ import java.util.*;
 
 public class StudentManagement {
 
-    // ── Student data stored in parallel arrays ──
+    // ── Student data stored in parallel arrays ──   
     static int[]    ids     = new int[100];
     static String[] names   = new String[100];
     static int[]    ages    = new int[100];
