@@ -112,7 +112,7 @@ public class StudentManagement {
     }
 
     // ─────────────────────────────────────────
-    //  2. VIEW ALL
+    //  2. VIEW ALL  
     // ─────────────────────────────────────────
     static void viewAll() {
         System.out.println(BOLD + "\n--- All Students ---" + RESET);
