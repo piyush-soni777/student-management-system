@@ -16,7 +16,7 @@ That's it!
 - Add / View / Search / Update / Delete students.
 - Search by name or course.
 - Color-coded GPA table.
-- Statistics with course bar chart
+- Statistics with course bar chart.
 - 5 sample students pre-loaded.
 
 ## Requirements
