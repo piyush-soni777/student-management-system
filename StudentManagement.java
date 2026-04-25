@@ -101,7 +101,7 @@ public class StudentManagement {
         double gpa = readDouble("GPA (0-10)");
         System.out.print("Email  : "); String email  = sc.nextLine().trim();
 
-        // Basic validation
+        // Basic validation 
         if (name.isEmpty())        { System.out.println(RED + "Name cannot be empty." + RESET); return; }
         if (age < 15 || age > 100) { System.out.println(RED + "Age must be 15-100."   + RESET); return; }
         if (gpa < 0 || gpa > 10)  { System.out.println(RED + "GPA must be 0-10."      + RESET); return; }
