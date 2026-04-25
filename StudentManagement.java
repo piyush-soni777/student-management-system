@@ -87,7 +87,7 @@ public class StudentManagement {
     }
 
     // ─────────────────────────────────────────
-    //  1. ADD
+    //  1. ADD//
     // ─────────────────────────────────────────
     static void addStudent() {
         if (count >= 100) {
