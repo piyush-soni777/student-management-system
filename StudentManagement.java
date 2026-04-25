@@ -123,7 +123,7 @@ public class StudentManagement {
     }
 
     // ─────────────────────────────────────────
-    //  3. SEARCH BY NAME//
+    //  3. SEARCH BY NAME///
     // ─────────────────────────────────────────
     static void searchByName() {
         System.out.println(BOLD + "\n--- Search by Name ---" + RESET);
