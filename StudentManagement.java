@@ -23,7 +23,7 @@ public class StudentManagement {
     static final String RED    = "\u001B[31m";
 
     // ─────────────────────────────────────────
-    //  MAIN
+    //  MAIN...
     // ─────────────────────────────────────────
     public static void main(String[] args) {
         seedData();
