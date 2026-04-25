@@ -1,6 +1,7 @@
-# Student Management System (Single File)
+# 🎓 Student Management System
 
-A simple CLI-based Student Management System in a **single Java file** — no packages, no Maven needed.
+Student Management System is a Java-based application designed to manage student records efficiently.  
+It allows users to perform operations like adding, viewing, searching, updating, and deleting student data.
 
 ## Run in 2 steps
 
